@@ -5,17 +5,17 @@ body {
   text-align: center;}
 
 h1, h2 {
-  color: #ee3e80;
+  color: #8c98e7;
   text-shadow: 2px 2px 3px #666666;
   padding-bottom: 10px;}
 
 a:link {
-  color: deeppink;
+  color: #8c98e7;
   text-decoration: none;}
 a:visited {
-  color: deepcyan}
+  color: deeppink}
 a:hover {
-  color: deeppink;
+  color: #8c98e7;
   text-decoration: underline;}
 
 ul {
