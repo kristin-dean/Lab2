@@ -4,7 +4,9 @@ body {
   background-color: rgb(185,179,175);}
 
 h1, h2 {
-  color: #ee3e80;}
+  color: #ee3e80;
+  text-shadow: 2px 2px 3px #666666;
+  padding-bottom: 10px;}
 
 a:link {
   color: deeppink;
