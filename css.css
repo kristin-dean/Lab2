@@ -5,3 +5,12 @@ body {
 
 h1 {
   color: #ee3e80;}
+
+a:link {
+  color: deeppink;
+  text-decoration: none;}
+a:visited {
+  color: deepcyan}
+a:hover {
+  color: deeppink;
+  text-decoration: underline;}
