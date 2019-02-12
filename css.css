@@ -17,3 +17,7 @@ a:visited {
 a:hover {
   color: deeppink;
   text-decoration: underline;}
+
+ul {
+  list-style-type: circle;
+  text-align: center}
